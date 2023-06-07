@@ -1,3 +1,9 @@
-body {background-color: aquamarine;}
+body {background-color: aquamarine;
+    
+}
 
-header{background-color: blue;}
+header{background-color: blue;
+}
+.imagem {
+    width: 10%;
+}
