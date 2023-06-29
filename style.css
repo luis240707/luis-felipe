@@ -5,7 +5,7 @@ body {background-color: aquamarine;
 header{background-color: blue;
     display: flex;
     justify-content: space-around;
-}
+    align-items: center;}
 .imagem {
     width: 10%;
 }
